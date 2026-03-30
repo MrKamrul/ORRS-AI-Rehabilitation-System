@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "exercises": [
+    {
+      "code": "WARMUP_MARCH",
+      "category": "WARMUP",
+      "name": "March in place",
+      "base_minutes": 5,
+      "instructions": "Stand near support. March slowly, swing arms comfortably. Stop if dizzy.",
+      "tags": [
+        "fall_risk_sensitive"
+      ]
+    },
+    {
+      "code": "BALANCE_TANDEM",
+      "category": "BALANCE",
+      "name": "Tandem stance",
+      "base_minutes": 3,
+      "instructions": "Stand near a wall/counter. Place one foot in front of the other, hold 10\u201330s. Repeat 2\u20133 times.",
+      "tags": [
+        "fall_risk_sensitive"
+      ]
+    },
+    {
+      "code": "STRENGTH_SIT_TO_STAND",
+      "category": "STRENGTH",
+      "name": "Sit-to-stand",
+      "sets": 2,
+      "reps": 8,
+      "instructions": "From a chair, stand up slowly then sit down with control. Use arms if needed.",
+      "tags": [
+        "fall_risk_sensitive"
+      ]
+    },
+    {
+      "code": "SENSORY_TEXTURE",
+      "category": "SENSORY",
+      "name": "Foot sensory re-education",
+      "base_minutes": 6,
+      "instructions": "Seated. Use a towel/soft ball. Roll under foot, then gently tap different textures. Focus on sensation.",
+      "tags": [
+        "cipn"
+      ]
+    },
+    {
+      "code": "DEXTERITY_FINGER_TAPS",
+      "category": "DEXTERITY",
+      "name": "Finger taps (nine-tap)",
+      "sets": 3,
+      "reps": 9,
+      "instructions": "Tap 9 targets once each. Focus on accuracy. Rest 30\u201360s between sets.",
+      "tags": [
+        "cipn"
+      ]
+    },
+    {
+      "code": "AEROBIC_WALK",
+      "category": "AEROBIC",
+      "name": "Easy walk",
+      "base_minutes": 12,
+      "instructions": "Walk at comfortable pace. Use support if needed. RPE 3\u20135.",
+      "tags": [
+        "fall_risk_sensitive"
+      ]
+    },
+    {
+      "code": "STRETCH_CALF",
+      "category": "STRETCH",
+      "name": "Calf stretch",
+      "base_minutes": 4,
+      "instructions": "Hold 20\u201330s each side. Do not bounce.",
+      "tags": []
+    }
+  ]
+}

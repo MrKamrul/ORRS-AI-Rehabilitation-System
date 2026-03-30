@@ -1,0 +1,6 @@
+age,chemo_agents,neuropathy,pain,numbness,tug_seconds,ctcae_grade
+52,Paclitaxel,6,5,5,15.2,2
+45,Oxaliplatin,8,6,7,18.4,3
+38,None,1,0,1,10.1,1
+60,Cisplatin,7,7,8,22.0,3
+49,Docetaxel,4,3,4,14.0,2

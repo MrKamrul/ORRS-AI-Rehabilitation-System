@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "guidelines": [
+    {
+      "goal": "PROTEIN",
+      "text": "Include a protein source with each meal (eggs, fish, beans, lentils, chicken, yogurt)."
+    },
+    {
+      "goal": "HYDRATION",
+      "text": "Aim ~2\u20132.5L fluids/day unless your doctor limits fluids."
+    },
+    {
+      "goal": "FIBER",
+      "text": "Add fruits/vegetables and whole grains for fiber; go slow if you have GI issues."
+    },
+    {
+      "goal": "MICRONUTRIENTS",
+      "text": "Prioritize colorful vegetables and fruit; include healthy fats (nuts, olive oil)."
+    }
+  ],
+  "meal_ideas": [
+    "Breakfast: eggs + whole grain toast + fruit",
+    "Lunch: lentil/bean bowl + vegetables + yogurt",
+    "Dinner: fish/chicken + rice/whole grains + mixed salad",
+    "Snack: nuts + banana or yogurt"
+  ]
+}
